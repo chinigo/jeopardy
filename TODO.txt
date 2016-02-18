@@ -1,0 +1,4 @@
+Kill hover-to-answer
+Hide text by default
+Show text on first click
+Show answer on double-click after first
